@@ -17,7 +17,7 @@
       "id": "std",
       "title": "GeoJSON",
       "iconUrl": "",
-      "url": "http://basemapsbeta.arcgis.com/preview/styles/StreetMapRelief/data.json",
+      "url": "http://valuecreation.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
