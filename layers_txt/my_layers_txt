@@ -12,6 +12,19 @@
       "cocotile": true,
       "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
       "html": "https://github.com/ValueCreation/gsimaps/blob/gh-pages/layers_txt/my_layers_txt"
+    },{
+      "type": "Layer",
+      "id": "std",
+      "title": "GeoJSON",
+      "iconUrl": "",
+      "url": "http://valuecreation.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
+      "html": "",
+      "maxZoom: 18",
+      "maxNativeZoom: 2"
     }
   ]
 }
