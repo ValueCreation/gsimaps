@@ -27,7 +27,7 @@
     },{
       "type": "Layer",
       "id": "std",
-      "title": "GeoJSON",
+      "title": "FOSS4G ハンズオン",
       "iconUrl": "",
       "url": "http://valuecreation.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
       "subdomains": "",
