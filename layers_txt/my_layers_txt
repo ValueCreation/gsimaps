@@ -12,7 +12,23 @@
       "cocotile": true,
       "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
       "html": "https://github.com/ValueCreation/gsimaps/blob/gh-pages/layers_txt/my_layers_txt"
-    },{
+    },
+    {
+      "type": "Layer",
+      "id": "std",
+      "title": "GeoJSON",
+      "iconUrl": "",
+      "url": "    https://gist.githubusercontent.com/ValueCreation/d62a74e6a29f3b3fddb5/raw/29c8a5457b55d2c57c846217613df6e863801975/fireStation_or_vendingMachine.geojson
+",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": "",
+      "maxZoom": 18,
+      "maxNativeZoom": 2
+    },  
+    {
       "type": "Layer",
       "id": "std",
       "title": "GeoJSON",
