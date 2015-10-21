@@ -1,0 +1,765 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-10-20T01:52:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/168286756",
+      "properties": {
+        "@id": "way/168286756",
+        "addr:housenumber": "浜松市中区鴨江2-1-11",
+        "amenity": "fire_station",
+        "name": "浜松市消防局中消防署鴨江出張所",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.7166634,
+              34.7052379
+            ],
+            [
+              137.7166312,
+              34.7051586
+            ],
+            [
+              137.7165601,
+              34.7049756
+            ],
+            [
+              137.7165004,
+              34.7048605
+            ],
+            [
+              137.7164223,
+              34.7047378
+            ],
+            [
+              137.7163856,
+              34.7046548
+            ],
+            [
+              137.7164109,
+              34.7046246
+            ],
+            [
+              137.7164682,
+              34.7045981
+            ],
+            [
+              137.7167667,
+              34.7045038
+            ],
+            [
+              137.7171913,
+              34.7043868
+            ],
+            [
+              137.717189,
+              34.7044321
+            ],
+            [
+              137.717313,
+              34.704785
+            ],
+            [
+              137.717313,
+              34.7048265
+            ],
+            [
+              137.7172855,
+              34.704851
+            ],
+            [
+              137.7171822,
+              34.7049416
+            ],
+            [
+              137.716948,
+              34.705085
+            ],
+            [
+              137.7167667,
+              34.7051945
+            ],
+            [
+              137.7167024,
+              34.7052398
+            ],
+            [
+              137.7166634,
+              34.7052379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250992553",
+      "properties": {
+        "@id": "way/250992553",
+        "amenity": "fire_station",
+        "building": "yes",
+        "source": "GSI/KIBAN 2500"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.737664,
+              34.7105747
+            ],
+            [
+              137.7376598,
+              34.7105178
+            ],
+            [
+              137.7377971,
+              34.7105109
+            ],
+            [
+              137.7378032,
+              34.7105938
+            ],
+            [
+              137.737738,
+              34.7105971
+            ],
+            [
+              137.737736,
+              34.7105711
+            ],
+            [
+              137.737664,
+              34.7105747
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259748104",
+      "properties": {
+        "@id": "way/259748104",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "浜松市東消防署上石田出張所"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.7892778,
+              34.7539758
+            ],
+            [
+              137.7888873,
+              34.7536338
+            ],
+            [
+              137.788913,
+              34.7533172
+            ],
+            [
+              137.7894988,
+              34.7533467
+            ],
+            [
+              137.7894114,
+              34.7539885
+            ],
+            [
+              137.7892778,
+              34.7539758
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260266066",
+      "properties": {
+        "@id": "way/260266066",
+        "amenity": "fire_station",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.7182349,
+              34.7767917
+            ],
+            [
+              137.7183428,
+              34.7762501
+            ],
+            [
+              137.719026,
+              34.7763387
+            ],
+            [
+              137.7189062,
+              34.7768901
+            ],
+            [
+              137.7182349,
+              34.7767917
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420976590",
+      "properties": {
+        "@id": "node/1420976590",
+        "amenity": "fire_station",
+        "name": "浜松市中消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7265268,
+          34.7157333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420976599",
+      "properties": {
+        "@id": "node/1420976599",
+        "amenity": "fire_station",
+        "name": "浜松市西消防署庄内出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.608602,
+          34.755967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420978219",
+      "properties": {
+        "@id": "node/1420978219",
+        "amenity": "fire_station",
+        "name": "浜松市北消防署曳馬野出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7185106,
+          34.7766341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420978220",
+      "properties": {
+        "@id": "node/1420978220",
+        "amenity": "fire_station",
+        "name": "浜松市東消防署有玉出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2,hamamatsu",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.748149,
+          34.754086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420978221",
+      "properties": {
+        "@id": "node/1420978221",
+        "amenity": "fire_station",
+        "name": "浜松市北消防署 高台出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7240045,
+          34.7364998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420978433",
+      "properties": {
+        "@id": "node/1420978433",
+        "amenity": "fire_station",
+        "name": "浜松市消防局南消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7202345,
+          34.6939113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420978434",
+      "properties": {
+        "@id": "node/1420978434",
+        "amenity": "fire_station",
+        "name": "浜松市南消防署可美出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.6877614,
+          34.6876761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420978435",
+      "properties": {
+        "@id": "node/1420978435",
+        "KSJ2:ADS": "白羽町595",
+        "KSJ2:AdminArea": "静岡県浜松市",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "南部消防署白脇出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.74237,
+          34.67923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420978436",
+      "properties": {
+        "@id": "node/1420978436",
+        "amenity": "fire_station",
+        "name": "浜松市消防局西消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.630324,
+          34.681922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420978437",
+      "properties": {
+        "@id": "node/1420978437",
+        "amenity": "fire_station",
+        "name": "浜松市西消防署雄踏出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.6214273,
+          34.7045464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420981066",
+      "properties": {
+        "@id": "node/1420981066",
+        "KSJ2:ADS": "二俣町二俣481",
+        "KSJ2:AdminArea": "静岡県浜松市",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "天竜消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.815995,
+          34.872654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420981067",
+      "properties": {
+        "@id": "node/1420981067",
+        "amenity": "fire_station",
+        "name": "浜松市天竜消防署佐久間出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7992209,
+          35.0859363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420981068",
+      "properties": {
+        "@id": "node/1420981068",
+        "amenity": "fire_station",
+        "name": "浜松市天竜消防署 春野出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.89718,
+          34.981394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420988351",
+      "properties": {
+        "@id": "node/1420988351",
+        "amenity": "fire_station",
+        "name": "浜松市消防局北消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.66851,
+          34.814544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420988359",
+      "properties": {
+        "@id": "node/1420988359",
+        "amenity": "fire_station",
+        "name": "浜松市消防局北消防署三ヶ日出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.556883,
+          34.803209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420989613",
+      "properties": {
+        "@id": "node/1420989613",
+        "amenity": "fire_station",
+        "name": "浜松市東消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7770107,
+          34.7220605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420989614",
+      "properties": {
+        "@id": "node/1420989614",
+        "amenity": "fire_station",
+        "name": "浜松市東消防署上石田出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7892213,
+          34.7536613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420989615",
+      "properties": {
+        "@id": "node/1420989615",
+        "amenity": "fire_station",
+        "name": "浜松市中消防署相生出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.747897,
+          34.70981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420989616",
+      "properties": {
+        "@id": "node/1420989616",
+        "amenity": "fire_station",
+        "name": "浜松市南消防署芳川出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7711228,
+          34.6847701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420989617",
+      "properties": {
+        "@id": "node/1420989617",
+        "amenity": "fire_station",
+        "name": "浜松市南消防署飯田出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.774006,
+          34.70159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420991826",
+      "properties": {
+        "@id": "node/1420991826",
+        "amenity": "fire_station",
+        "name": "浜松市消防局 浜北消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.78961,
+          34.79422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420991832",
+      "properties": {
+        "@id": "node/1420991832",
+        "amenity": "fire_station",
+        "name": "浜松市浜北消防署赤佐出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.796859,
+          34.834937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420992486",
+      "properties": {
+        "@id": "node/1420992486",
+        "KSJ2:ADS": "下池川町19-1",
+        "KSJ2:AdminArea": "静岡県浜松市",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "浜松市消防本部",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7269292,
+          34.7159008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2648973672",
+      "properties": {
+        "@id": "node/2648973672",
+        "amenity": "fire_station",
+        "name": "浜松市消防局北消防署三ヶ日出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2,hamamatsu",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.556883,
+          34.803209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2648973700",
+      "properties": {
+        "@id": "node/2648973700",
+        "amenity": "fire_station",
+        "name": "浜松市消防局北消防署引佐出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2,浜松市",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.654923,
+          34.8751698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2664408635",
+      "properties": {
+        "@id": "node/2664408635",
+        "amenity": "fire_station",
+        "name": "浜松市中消防署鴨江出張所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7168693,
+          34.7047945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3666702086",
+      "properties": {
+        "@id": "node/3666702086",
+        "amenity": "fire_station",
+        "name": "天竜消防署水窪出張所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.8704452,
+          35.1717641
+        ]
+      }
+    }
+  ]
+}
