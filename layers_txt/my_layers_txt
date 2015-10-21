@@ -14,9 +14,9 @@
     },{
       "type": "Layer",
       "id": "std",
-      "title": "GitHub Gist GeoJSON",
+      "title": "静岡県浜松市 消火器",
       "iconUrl": "",
-      "url": "https://gist.githubusercontent.com/ValueCreation/d62a74e6a29f3b3fddb5/raw/29c8a5457b55d2c57c846217613df6e863801975/fireStation_or_vendingMachine.geojson",
+      "url": "http://valuecreation.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
