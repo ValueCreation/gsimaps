@@ -14,14 +14,14 @@
     },{
       "type": "Layer",
       "id": "std",
-      "title": "GeoJSON",
+      "title": "GitHub Gist GeoJSON",
       "iconUrl": "",
       "url": "https://gist.githubusercontent.com/ValueCreation/d62a74e6a29f3b3fddb5/raw/29c8a5457b55d2c57c846217613df6e863801975/fireStation_or_vendingMachine.geojson",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
       "legendUrl": "",
-      "html": "",
+      "html": "https://gist.github.com/ValueCreation/d62a74e6a29f3b3fddb5",
       "maxZoom": 18,
       "maxNativeZoom": 2
     },{
