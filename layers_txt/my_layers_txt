@@ -16,7 +16,7 @@
       "id": "std",
       "title": "静岡県浜松市 消火器",
       "iconUrl": "",
-      "url": "http://valuecreation.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
+      "url": "http://valuecreation.github.io/gsimaps/example_layers/{z}/{x}/{y}.geojson",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
